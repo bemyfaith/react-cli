@@ -9,3 +9,5 @@
 #运行： npm run start
 
 #打包： npm run build
+
+#搭建详细步骤 https://juejin.im/post/5dde2be65188254d0b0201eb
